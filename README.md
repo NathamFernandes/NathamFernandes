@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Olá. Eu sou Natham, estou no 3º período de T.I. no IMD/UFRN e sou desenvolvedor. Pretendo explorar novas tecnologias front-end nos próximos tempos. Também gostaria de aprender uma língua nova. 😗
+Olá. Eu sou Natham, estou no 4º período de T.I. no IMD/UFRN e sou desenvolvedor. Pretendo explorar novas tecnologias front-end nos próximos tempos. Também gostaria de aprender uma língua nova. 😗
 
 Atualmente estou trabalhando no Grupo G Trigueiro como estagiário de TI. Desenvolvo e mantenho o sistema GMarket - aplicação de geração de cartazes - utilizando, principalmente, PHP, Laravel, Vue, etc. 
 <!-- **NathamFernandes/NathamFernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
